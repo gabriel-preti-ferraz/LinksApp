@@ -7,7 +7,7 @@
 
 <img src="LinksApp.png">
 
-> Cópia do LinkTree
+> Para acessar o resultado clique <a href="https://gabriel-preti-ferraz.github.io/LinksApp" target="_blank">aqui</a>
 
 ## 🚀 Instalando LinksApp
 
