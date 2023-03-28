@@ -5,7 +5,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/gabriel-preti-ferraz/LinksApp?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/gabriel-preti-ferraz/LinksApp?style=for-the-badge)
 
-<img src="exemplo-image.png">
+<img src="LinkApp.png">
 
 > Cópia do LinkTree
 
