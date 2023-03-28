@@ -21,7 +21,7 @@ Para instalar o LinksApp, siga estas etapas:
 
 Para usar LinksApp, siga estas etapas:
 
-* Abra o arquivo `index.html` com um editor de código;
+* Abra o arquivo `links.html` com um editor de código;
 * Substitua a imagem de perfil e o nome pelas suas informações;
 * Substitua os itens de links para suas informações.
 
